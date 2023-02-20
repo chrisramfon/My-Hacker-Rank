@@ -10,3 +10,6 @@ It contains all my haker rank exercises
 - Day 2: Conditional Statement. > conditional
 - Day 8: Buttons Container > js10Buttons
 - Day 9: Binary Calculator > binaryCalculator
+
+## 30 Days of Code
+- Day 0: Hello, world. > helloWorld
