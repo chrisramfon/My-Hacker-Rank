@@ -16,3 +16,4 @@ It contains all my haker rank exercises
 - Day 1: Data Types > dataTypes
 - Day 2: Operators > operators
 - Day 3: Conditional Statement > conditionalStatement
+- Day 4: Class Vs. Instance > classVsInstance
