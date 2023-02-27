@@ -14,3 +14,4 @@ It contains all my haker rank exercises
 ## 30 Days of Code
 - Day 0: Hello, world. > helloWorld
 - Day 3: Conditional Statement > conditionalStatement
+- Day 1: Data Types > dataTypes
