@@ -17,3 +17,4 @@ It contains all my haker rank exercises
 - Day 2: Operators > operators
 - Day 3: Conditional Statement > conditionalStatement
 - Day 4: Class Vs. Instance > classVsInstance
+- Day 5: Loops > loops
