@@ -19,3 +19,4 @@ It contains all my haker rank exercises
 - Day 4: Class Vs. Instance > classVsInstance
 - Day 5: Loops > loops
 - Day 6: Let's Review > letsReview
+- Day 7: Arrays > arrays
