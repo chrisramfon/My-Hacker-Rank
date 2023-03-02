@@ -20,3 +20,4 @@ It contains all my haker rank exercises
 - Day 5: Loops > loops
 - Day 6: Let's Review > letsReview
 - Day 7: Arrays > arrays
+- Day 8: Dictionaries and Maps > dictionariesNMaps
