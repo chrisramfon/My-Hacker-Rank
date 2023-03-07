@@ -23,3 +23,4 @@ It contains all my haker rank exercises
 - Day 8: Dictionaries and Maps > dictionariesNMaps
 - Day 9: Recursion 3 > recursion
 - Day 10: Binary Numbers > binary
+- Day 11: 2D Arrays > 2dArrays
