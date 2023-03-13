@@ -26,3 +26,4 @@ It contains all my haker rank exercises
 - Day 11: 2D Arrays > 2dArrays
 - Day 12: Inheritance: inheritance
 - Day 13: Abstract Classes > abstract
+- Day 14: Scope > scope
