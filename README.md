@@ -28,3 +28,4 @@ It contains all my haker rank exercises
 - Day 13: Abstract Classes > abstract
 - Day 14: Scope > scope
 - Day 15: Linked List > linkedList
+- Day 17: More Exceptions > moreExceptions
