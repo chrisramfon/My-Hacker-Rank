@@ -30,3 +30,4 @@ It contains all my haker rank exercises
 - Day 15: Linked List > linkedList
 - Day 16: Exceptions > exceptions
 - Day 17: More Exceptions > moreExceptions
+- Day 18: Queues and Stacks > queuesAndStacks
