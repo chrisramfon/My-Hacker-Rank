@@ -32,3 +32,4 @@ It contains all my haker rank exercises
 - Day 17: More Exceptions > moreExceptions
 - Day 18: Queues and Stacks > queuesAndStacks
 - Day 19: Interfaces > interfaces
+- Day 20: Sorting > sorting
