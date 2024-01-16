@@ -33,3 +33,4 @@ It contains all my haker rank exercises
 - Day 18: Queues and Stacks > queuesAndStacks
 - Day 19: Interfaces > interfaces
 - Day 20: Sorting > sorting
+- Day 21: Generics > generics
