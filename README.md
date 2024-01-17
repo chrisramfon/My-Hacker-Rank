@@ -34,3 +34,4 @@ It contains all my haker rank exercises
 - Day 19: Interfaces > interfaces
 - Day 20: Sorting > sorting
 - Day 21: Generics > generics
+- Day 22: Binary Search Trees > binarySearchTrees
