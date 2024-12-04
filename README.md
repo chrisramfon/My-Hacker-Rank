@@ -41,3 +41,4 @@ It contains all my haker rank exercises
 ## 1-Week-Preparation-Kit
 - Day 1: Plus Minus > ratio
 - Day 1: Mini-Max Sum > miniMaxSum
+- Day 1: Time Conversion > time-conversion (Without datetime class)
